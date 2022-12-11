@@ -28,7 +28,7 @@
     color: #a6a6a6;
 }
 .main-header .nav-menu ul li a.active,
-.main-header .nav-menu ul li a.focus{
+.main-header .nav-menu ul li a:hover{
     color: #000;
 }
 .main-header .nav-menu img{
