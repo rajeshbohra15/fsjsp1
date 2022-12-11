@@ -27,7 +27,8 @@
     text-decoration: none;
     color: #a6a6a6;
 }
-.main-header .nav-menu ul li a.active {
+.main-header .nav-menu ul li a.active,
+.main-header .nav-menu ul li a.focus{
     color: #000;
 }
 .main-header .nav-menu img{
